@@ -22,5 +22,12 @@ contract StorageFactory is SimpleStorage {
         //this line simply gets the SimpleStorage object at the index _simpleStorageIndex in the array simpleStorageArray
         //simpleStorageArray[_simpleStorageIndex].store(_simpleStorageNumber);
     }
+        function sfGet(uint256 _simpleStorageIndex) public view returns (uint256) {
+        //this line has an explicit cast to the address type and initializes a new SimpleStorage object from the address 
+        return SimpleStorage(address(simpleStorageArray[_simpleStorageIndex])).retrieve(); 
+
+        //this line simply gets the SimpleStorage object at the index _simpleStorageIndex in the array simpleStorageArray
+        //return simpleStorageArray[_simpleStorageIndex].retrieve(); 
+    }
     
 }
