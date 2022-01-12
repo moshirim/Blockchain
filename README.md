@@ -1,2 +1,2 @@
 # Blockchain
-Learning Solidity, deploying Smart Contracts, web3 and more.
+Learning Solidity, deploying Smart Contracts, understanding Web3 and more.
