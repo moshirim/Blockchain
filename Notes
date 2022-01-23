@@ -9,3 +9,18 @@ Blockchains are a “walled garden” meaning that  whatever happens during a tr
 
 What are oracle:
 Oracles are devices that bring data into these blockchain or help compute data that the blockchain can interact with. 
+
+Introducing chainlink:
+Chain Link is a hybrid smart contract oracle network that allows you to bring external data into your smart contracts and also allow for other computations. 
+
+Smart contract vs hybrid smart contracts:
+Hybrid smart contracts have an off chain component to them - the real world data.
+
+Etherscan:
+It is a block explorer where you can see the detail of the transaction
+
+Hash:
+It is a unique fixed length string meant to identify a piece of data. They are created by placing said data into a hash function.
+Hash algorithm: it is a function that computes a set of data into a hash. example: SHA256
+
+Genesis block: first block in a blockchain
