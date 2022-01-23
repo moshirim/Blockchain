@@ -24,3 +24,9 @@ It is a unique fixed length string meant to identify a piece of data. They are c
 Hash algorithm: it is a function that computes a set of data into a hash. example: SHA256
 
 Genesis block: first block in a blockchain
+
+Mining a block:
+Block - a list of transactions mined together.
+Nonce - a “number used once” to find the “solution” to the blockchain problem.
+Data
+Previous - address of previous block’s hashHash - hash address of the current block.
