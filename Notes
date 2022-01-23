@@ -30,3 +30,6 @@ Block - a list of transactions mined together.
 Nonce - a “number used once” to find the “solution” to the blockchain problem.
 Data
 Previous - address of previous block’s hashHash - hash address of the current block.
+
+Private key:
+Your signature to transactions
