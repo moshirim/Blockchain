@@ -1,0 +1,11 @@
+What is blockchain:
+A blockchain is a digitally distributed, decentralized, public ledger that exists across a network.
+
+What is smart contract:
+They are a set of self-executing set of instructions without any third party intermediary. They get stored in the blockchain
+
+The oracle problem:
+Blockchains are a “walled garden” meaning that  whatever happens during a transaction happens in a box. But, if smart contracts want to be superior, they need to be able to communicate with the real world and outside of the block chain computation. 
+
+What are oracle:
+Oracles are devices that bring data into these blockchain or help compute data that the blockchain can interact with. 
